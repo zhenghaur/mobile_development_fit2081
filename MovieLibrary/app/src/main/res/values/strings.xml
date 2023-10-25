@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieLibrary</string>
+    <string name="navigation_drawer_open">drawer opened</string>
+    <string name="navigation_drawer_close">drawer closed</string>
+</resources>
